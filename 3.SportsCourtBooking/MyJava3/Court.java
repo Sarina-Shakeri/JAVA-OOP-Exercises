@@ -3,6 +3,7 @@ package MyJava3;
 import java.util.ArrayList;
 import java.util.List;
 
+
 public class Court {
     private final String name;
     private String type;

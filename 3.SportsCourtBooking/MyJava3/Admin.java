@@ -3,6 +3,7 @@ package MyJava3;
 import java.util.ArrayList;
 import java.util.List;
 
+
 public class Admin {
     private List<Court> courts;
 

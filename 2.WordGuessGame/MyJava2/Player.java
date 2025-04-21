@@ -1,5 +1,6 @@
 package MyJava2;
 
+
 public class Player {
     private final String name;
     private int score;

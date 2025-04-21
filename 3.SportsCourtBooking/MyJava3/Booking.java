@@ -1,5 +1,6 @@
 package MyJava3;
 
+
 public class Booking {
     private final Player player;
     private Schedule schedule;

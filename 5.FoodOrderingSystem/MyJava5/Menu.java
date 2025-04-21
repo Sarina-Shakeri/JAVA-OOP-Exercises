@@ -1,5 +1,6 @@
 package MyJava5;
 
+
 public class Menu {
     private final String title;
     private final double unitPrice;

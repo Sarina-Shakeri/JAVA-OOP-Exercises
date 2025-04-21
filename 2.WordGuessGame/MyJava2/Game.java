@@ -2,6 +2,7 @@ package MyJava2;
 
 import java.util.*;
 
+
 public class Game {
     private final String[] wordBank = {"engineer", "universe", "keyboard", "programmer", "variable"};
     private String secretWord;

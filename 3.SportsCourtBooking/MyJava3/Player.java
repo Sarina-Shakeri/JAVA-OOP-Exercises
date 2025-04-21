@@ -1,5 +1,6 @@
 package MyJava3;
 
+
 public class Player {
     private final String name;
 

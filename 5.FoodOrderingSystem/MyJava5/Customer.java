@@ -1,5 +1,6 @@
 package MyJava5;
 
+
 public class Customer {
     private final String customerName;
 

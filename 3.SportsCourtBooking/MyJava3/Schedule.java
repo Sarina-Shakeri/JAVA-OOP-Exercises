@@ -1,5 +1,6 @@
 package MyJava3;
 
+
 public class Schedule {
     private final String startTime;
     private final String endTime;

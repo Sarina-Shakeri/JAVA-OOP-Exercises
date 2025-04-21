@@ -3,6 +3,7 @@ package MyJava7;
 import java.util.ArrayList;
 import java.util.List;
 
+
 public class BankAccount {
     private static int accountCounter = 1000;
     private final String accountNumber;
