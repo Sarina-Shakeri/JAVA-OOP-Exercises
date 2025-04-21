@@ -13,7 +13,7 @@ public class Main {
         while (!exit) {
             System.out.println("\n=== Food Ordering System ===");
             System.out.println("1. View Menu");
-            System.out.println("2. Place Order");
+            System.out.println("2. Place Order$$");
             System.out.println("3. View Orders");
             System.out.println("4. Exit");
             System.out.print("Enter your choice: ");
